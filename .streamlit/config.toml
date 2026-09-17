@@ -1,0 +1,16 @@
+# config.toml
+[theme]
+base = "light"
+
+# Primary accent color.
+primaryColor = "#000080"
+
+# Background color of the app.
+#backgroundColor = "#4B89DC"
+
+# Background color used for most interactive widgets.
+#secondaryBackgroundColor =
+
+Color used for almost all text.
+#textColor = "#4B89DC"
+
