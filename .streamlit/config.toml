@@ -6,11 +6,11 @@ base = "light"
 primaryColor = "#000080"
 
 # Background color of the app.
-#backgroundColor = "#4B89DC"
+backgroundColor = "#ADD8E6"
 
 # Background color used for most interactive widgets.
-#secondaryBackgroundColor =
+#secondaryBackgroundColor = "#000080"
 
-Color used for almost all text.
-#textColor = "#4B89DC"
+# Color used for almost all text.
+textColor = "#4B89DC"
 
